@@ -45,4 +45,5 @@ I implemented this using java StringBuilder.class reverse() and String equals().
 		
 		if (strippedPalindrome.equals(reversePalindrome(strippedPalindrome))) return true;
 		return false;
-	}```
+	}
+```
