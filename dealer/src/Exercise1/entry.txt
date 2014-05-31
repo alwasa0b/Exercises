@@ -1,0 +1,6 @@
+john 1
+john 5
+stacy 5
+bess 2
+stacy 4
+bess 6
